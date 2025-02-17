@@ -1,5 +1,2 @@
 # Pay-me-if-your-rich-license
-An open source license for developers to use in case their code gets used by big companies one day.
-
-# Send improvements
-Posting this license so anyone can easily copy and paste it. If you see any legal loopholes open an issue and I will update it.
+An open source license for anyone to copy paste into their open source code. It basically says you can do anything with the code unless you make over 1M where instead you have to pay the dev a small fee
